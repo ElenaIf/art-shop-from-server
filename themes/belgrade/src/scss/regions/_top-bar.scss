@@ -1,0 +1,12 @@
+//
+// Top bar.
+// ----------------------------
+
+$top-bar-height: 3.5rem;
+
+.region-top-bar {
+  height: $top-bar-height;
+  // Adjust z-index to be above the offcanvas.
+  z-index: $zindex-offcanvas + 1;
+}
+

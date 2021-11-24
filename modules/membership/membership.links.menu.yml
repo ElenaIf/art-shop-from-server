@@ -1,0 +1,19 @@
+# Main membership menu
+membership.admin_membership:
+  title: 'Membership'
+  route_name: entity.membership.collection
+  parent: 'system.admin'
+  description: 'List Membership Entities and configure memberships'
+  weight: 0
+entity.membership.collection:
+  title: 'Membership list'
+  route_name: entity.membership.collection
+  description: 'List Membership entities'
+  parent: membership.admin_membership
+  weight: 10
+entity.membership_type.collection:
+  title: 'Membership types'
+  route_name: entity.membership_type.collection
+  description: 'List Membership type bundles'
+  parent: membership.admin_membership
+  weight: 99

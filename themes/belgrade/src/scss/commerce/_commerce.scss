@@ -1,0 +1,24 @@
+/**
+ * @file
+ * Belgrade theme commerce overrides.
+ */
+
+// Cart Page.
+.cart-form {
+  margin-bottom: $spacer * 3;
+  // multiple cart forms.
+  + .cart-form {
+    padding-top: $spacer * 3;
+    border-top: $border-width solid $border-color;
+  }
+  // Remove button
+  .views-field-remove-button {
+    text-align: center;
+  }
+}
+
+// Catalog images.
+.image-style-catalog {
+  width: 100%;
+  max-width: none;
+}

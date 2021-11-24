@@ -1,0 +1,25 @@
+{
+    "name": "drupal/membership",
+    "description": "Drupal module for handling memberships.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "keywords": ["membership"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Brad Jones",
+            "email": "brad@bradjonesllc.com"
+        }
+    ],
+    "require": {
+        "drupal/state_machine": "^1.0",
+        "drupal/entity": "^1.0"
+    },
+    "suggest": {
+        "drupal/plugin": "Exposes membership_provider plugin type to Plugin module."
+    },
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/membership?status=All&categories=All",
+        "source": "https://git.drupalcode.org/project/entity"
+    }
+}

@@ -1,0 +1,15 @@
+name: Membership
+type: module
+description: 'Handling for site memberships'
+package: Membership
+# version: 1.x
+core_version_requirement: ^9
+dependencies:
+  - state_machine:state_machine
+  - entity:entity
+  - commerce:commerce
+
+# Information added by Drupal.org packaging script on 2021-10-19
+version: '2.0.x-dev'
+project: 'membership'
+datestamp: 1634664713

@@ -1,0 +1,16 @@
+{
+    "/dist/main.js": "/dist/main.js",
+    "/dist/product-teaser/belgrade.css": "/dist/product-teaser/belgrade.css",
+    "/dist/product-teaser/zoom.css": "/dist/product-teaser/zoom.css",
+    "/dist/commerce/commerce-demo--frontpage.css": "/dist/commerce/commerce-demo--frontpage.css",
+    "/dist/commerce/commerce_cart_block.css": "/dist/commerce/commerce_cart_block.css",
+    "/dist/commerce/commerce_checkout-progress.css": "/dist/commerce/commerce_checkout-progress.css",
+    "/dist/commerce/commerce_wishlist.css": "/dist/commerce/commerce_wishlist.css",
+    "/dist/commerce/product.images.css": "/dist/commerce/product.images.css",
+    "/dist/components/icons.css": "/dist/components/icons.css",
+    "/dist/main.css": "/dist/main.css",
+    "/dist/color.css": "/dist/color.css",
+    "/dist/product.images.js": "/dist/product.images.js",
+    "/dist/throbber.js": "/dist/throbber.js",
+    "/dist/bootstrap.bundle.js": "/dist/bootstrap.bundle.js"
+}

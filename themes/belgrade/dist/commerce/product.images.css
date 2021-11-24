@@ -1,0 +1,17 @@
+.image-item {
+  cursor: pointer;
+}
+
+.image-item img {
+  border: 1px solid #dee2e6;
+  opacity: 0.5;
+  transition: opacity 0.15s linear;
+}
+
+.image-item:hover img, .image-item.active img {
+  opacity: 1;
+}
+
+.image-item.active {
+  cursor: default;
+}

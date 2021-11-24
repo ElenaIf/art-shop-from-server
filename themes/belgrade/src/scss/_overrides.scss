@@ -1,0 +1,101 @@
+//
+// Overrides
+// ----------------------------
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.main-container {
+  min-height: 500px;
+}
+
+.btn {
+  text-transform: uppercase;
+}
+
+.button {
+  @extend .btn;
+}
+
+// Color swatch
+.color_field__swatch {
+  display: block;
+}
+
+// Dropdowns
+.dropdown {
+  // Nested menus
+  .dropdown-menu {
+    .dropdown-toggle:after {
+      transform: rotate(270deg);
+      margin-left: 0.5rem;
+    }
+
+    .dropdown-menu {
+      left: 96%;
+      top: 0;
+    }
+  }
+
+  // Display dropdowns on hover
+  &:hover > .dropdown-toggle + .dropdown-menu {
+    display: block;
+  }
+}
+
+// Accordions
+$nested-accordion-bg: $light;
+$accordion-button-fs: $font-size-md;
+
+.accordion {
+  .fieldset-legend.accordion-button {
+    font-size: $accordion-button-fs;
+
+    a {
+      font-weight: bold;
+    }
+  }
+
+  .accordion {
+    background-color: $nested-accordion-bg;
+    margin-bottom: 1.5rem !important;
+
+    .fieldset-legend.accordion-button {
+      font-size: 1rem;
+    }
+  }
+}
+
+.toast-body a {
+  font-weight: bold;
+}
+
+// Alert links
+.alert a {
+  color: inherit;
+  font-weight: bold;
+}
+
+// Tables
+td > .form-item:only-child {
+  margin-bottom: 0 !important;
+}
+
+// Contextual links.
+.contextual-links a {
+  color: initial!important;
+  text-transform: initial!important;
+  font-weight: normal!important;
+}
+
+// Temporary fix for the offcanvas component toggle button.
+// https://github.com/twbs/bootstrap/issues/33457
+.navigation-toggle {
+  > span,
+  > svg {
+    position: relative;
+    z-index: -1;
+  }
+}

@@ -1,0 +1,12 @@
+name: mycopyoftheartshop
+recipe: drupal9
+config:
+  webroot: .
+services:
+  phpmyadmin:
+    type: phpmyadmin
+    hosts:
+      - database
+proxy:
+  phpmyadmin:
+    - phpmyadmin.mycopyoftheartshop.lndo.site

@@ -1,0 +1,44 @@
+.product-image {
+  margin-bottom: 2px;
+}
+
+.product-image img {
+  width: 100%;
+  transition: opacity 0.2s ease;
+}
+
+.product-hover {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 1;
+}
+
+.product-info {
+  height: 4rem;
+  border-bottom: 2px solid var(--beo-primary);
+  transition: all 0.2s ease;
+}
+
+.product-title {
+  line-height: 1.2;
+  transition: all 0.2s ease;
+  padding-right: 3rem;
+}
+
+.product:hover .product-image img {
+  opacity: 0.4;
+}
+
+.product:hover .product-info {
+  padding: 0 1rem;
+  background-color: var(--beo-primary);
+  color: var(--beo-white);
+}
+
+.product:hover .product-title {
+  padding-right: 1rem;
+}
+
+.product:hover .product-hover {
+  opacity: 1;
+}

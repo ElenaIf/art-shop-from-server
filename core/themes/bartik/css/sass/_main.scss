@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $raleway;
+  font-size: 1.25rem;
+  background: $desertSand;
+}
+
+input,
+select {
+  font-family: $raleway !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: $notoSansDisplay;
+}
+h2 {
+  font-weight: 600;
+  font-size: 1.8rem;
+}
+h4 {
+  font-weight: 600;
+  font-size: 1.6rem;
+}
+
+h5 {
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  border-width: 0;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  padding: 2vw;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+main {
+  margin: 0 1vw 1vh 1vw;
+  padding: 2vw;
+}
+footer {
+  padding: 2vw;
+}
+
+#page,
+#main-wrapper,
+.region-primary-menu .menu-item a.is-active,
+.region-primary-menu .menu-item--active-trail a {
+  background: $desertSand;
+}
+.tabs ul.primary li a.is-active {
+  background-color: #fff;
+}
+.tabs ul.primary li.is-active a {
+  border-bottom-color: #fff;
+  background-color: #fff;
+}
+#header {
+  background-color: $desertSand;
+  
+}

@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Me</menu_item_title>
+      <menu_item_path>about me</menu_item_path>
+      <menu_item_slug>about-me</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Portfolio</menu_item_title>
+      <menu_item_path>portfolio</menu_item_path>
+      <menu_item_slug>portfolio</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/15/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.47em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.4em;">OUR LATEST COLLECTION OF</span></p><p style="text-align:Center; display:block; line-height:2.47em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.4em;">ORIGINAL ARTWORKS &amp; PAINTINGS</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:463px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/92home_default.jpg" alt="5" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:463px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/78home_default.jpg" alt="5" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">TURTLES FAMILY</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:463px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/72home_default.jpg" alt="5" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column04">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:463px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/93home_default.jpg" alt="74" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column05">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:463px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/82home_default.jpg" alt="42" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column06">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:463px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/90home_default.jpg" alt="5" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:4.63em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.533em;color:rgba(243,243,243,1);">Best Source of Painting and Handmade Goods</span></p><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:4.63em;"><span><a target="_self" class="btn btn-md btn-primary">View All Products</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.4em;">OUR 3D PAINTINGS</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:611px;max-width:800px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/georgepaganiiiwolUUEtXgcwunsplash2.jpg" alt="u" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:611px;max-width:800px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/brucewarringtonDs0fmWI0cRUunsplash.jpg" alt="5" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:611px;max-width:800px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/brucewarrington3j1VgbOy5WMunsplash.jpg" alt="2" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1000px;max-width:1000px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/effectimg.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 30px 0px;line-height:1.93em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.867em;">PAINTING OF THE CENTURY IN EXHIBITION </span></p><p style="margin:5px 0px 30px 0px;line-height:2.11em;"><span style="font-family:'Rajdhani','Arial';font-weight:500;font-size:1.133em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p><p style="margin:5px 0px 30px 0px;line-height:1.99em;"><span><a target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Me</page_title>
+      <alias>about-me</alias>
+      <page_name>About Me</page_name>
+      <page_header_id>About Me</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/15/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-me_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-3 col-xs-3 col-3">
+<div class="ttr_about-me_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.43em;"><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:1.867em;">ABOUT ME</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-me_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-3 col-xs-3 col-3">
+<div class="ttr_about-me_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:820px;max-width:1170px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/aboutimg11.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-3 col-xs-3 col-3">
+<div class="ttr_about-me_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><p style="margin:5px 0px 0px 0px;line-height:3.43em;color:rgba(51,51,51,1);"><span style="font-weight:600;font-size:1.867em;">Hi, I'm Lisa Smith, Art &amp; Craft Artist </span></p><p style="margin:5px 0px 30px 0px;line-height:1.99em;color:rgba(51,51,51,1);"><span style="font-size:1.067em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p><p style="margin:5px 0px 30px 0px;line-height:1.99em;color:rgba(51,51,51,1);"><span><a target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/15/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.91em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.133em;">CONTACT US</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_contact_html_row1 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-6 col-sm-5 col-xs-5 col-5">
+<div class="ttr_contact_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><p style="margin:2px 0px 20px 8px;"><span style="font-weight:600;font-size:1.6em;">Address:</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">New York City,</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">NY 10005, USA</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">PHONES: (800) 123-4567-890</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">WE ARE OPEN: Mon-Fri: 10:00 AM - 8:00 PM</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class="post_column col-xl-7 col-lg-7 col-md-6 col-sm-5 col-xs-5 col-5">
+<div class="ttr_contact_html_column11">
+<div class="margin_collapsetop"></div>
+
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Portfolio</page_title>
+      <alias>portfolio</alias>
+      <page_name>Portfolio</page_name>
+      <page_header_id>portfolio</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/15/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_portfolio_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.91em;"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.133em;">PORTFOLIO</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_portfolio_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:4.39em;color:rgba(51,51,51,1);"><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:2.4em;">My Art Work</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1766px;max-width:356px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1746442669.jpeg" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1769px;max-width:356px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1174004285.jpeg" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">TURTLES FAMILY</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_fill" style="height:474px;max-width:316px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/382048407.jpeg" alt="img" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column14">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1766px;max-width:356px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/873003768.jpeg" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column15">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1769px;max-width:356px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1210925563.jpeg" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">TURTLES FAMILY</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_portfolio_html_column16">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_fill" style="height:474px;max-width:356px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1315832928.jpeg" /></span></span><span style="font-family:'Work Sans','Arial';font-weight:600;font-size:1.2em;">ROMANTIC RAINY SEASON</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">About Me</span></h4><p><span style="color:rgba(179,179,179,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-me</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>portfolio</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">Pages</span></h4><p style="line-height:1.77em;"><span style="color:rgba(179,179,179,1);">Home</span></p><p style="line-height:1.77em;"><span style="color:rgba(179,179,179,1);">About</span></p><p style="line-height:1.77em;"><span style="color:rgba(179,179,179,1);">Contact</span></p><p style="line-height:1.77em;"><span style="color:rgba(179,179,179,1);">Blog</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-me</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>portfolio</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">Address</span></h4><p style="line-height:2.07em;"><span style="color:rgba(179,179,179,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="line-height:2.07em;"><span style="color:rgba(179,179,179,1);">New York City</span></p><p style="line-height:2.07em;"><span style="color:rgba(179,179,179,1);">NY 10005, USA</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-me</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>portfolio</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">Get In Touch</span></h4><p style="line-height: normal;"><br style="color:rgba(179,179,179,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Facebook.png" /><span style="color:rgba(179,179,179,1);">Facebook</span></p><p style="line-height: normal;"><br style="color:rgba(179,179,179,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Twitter.png" /><span style="color:rgba(179,179,179,1);">Twitter</span></p><p style="line-height: normal;"><br style="color:rgba(179,179,179,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/LinkedIn.png" /><span style="color:rgba(179,179,179,1);">LinkedIn</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-me</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>portfolio</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape00">
+        <block name="headershape00" tt_blockID="header_cell00" title="header_block00">
+          <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 0px 0px;line-height:2.47em;"><span style="font-family:'Work Sans','Arial';font-weight:500;font-size:1.333em;">Best Arstist Paintings</span></p><p style="margin:5px 0px 0px 0px;line-height:4.07em;"><span style="font-family:'Work Sans','Arial';font-weight:700;font-size:4em;">Latest Painting Collection </span></p><p style="margin:5px 0px 30px 0px;line-height:1.99em;"><span style="font-family:'Work Sans','Arial';font-size:1.067em;">Discover The World Through Orignal Paintings For Sale</span></p><p style="margin:5px 0px 30px 0px;line-height:2.23em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Learn More</a></span></p><p style="margin:5px 0px 30px 0px;line-height:3.27em;"><br style="font-weight:600;font-size:3.2em;" /></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-me</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>portfolio</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>

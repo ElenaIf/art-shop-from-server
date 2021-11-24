@@ -1,0 +1,50 @@
+//
+// Custom mixins
+//
+
+// Icons
+@mixin icon($size, $path, $color: false, $hover-color: false) {
+  display: inline-block;
+  border: 0;
+  padding: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: $size;
+  height: $size;
+  mask-image: svg-load($path);
+  mask-size: $size;
+  overflow: hidden;
+  text-indent: 9999px;
+  @if ($color) {
+    background-color: $color;
+  }
+  @if ($hover-color) {
+    &:hover {
+      background-image: svg-load($path, fill=#{$hover-color});
+    }
+  }
+}
+
+@mixin btn-icon($size, $path, $color: $white, $hover-color: false) {
+  padding-left: $btn-padding-x + ($size / 2);
+  background-position: $size center;
+  background-repeat: no-repeat;
+  background-size: $size;
+  background-image: svg-load($path, fill=#{$color});
+  @if ($hover-color) {
+    &:hover {
+      background-image: svg-load($path, fill=#{$hover-color});
+    }
+  }
+}
+
+@mixin btn-icon-only($size, $path, $color: $white) {
+  width: $size;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: $size;
+  background-image: svg-load($path, fill=#{$color});
+  overflow: hidden;
+  text-indent: 9999px;
+}
