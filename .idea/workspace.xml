@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -127,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="21GjwktLWhtQh3vwY9W0vN2lnYi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -157,7 +161,7 @@
       <updated>1637574560687</updated>
       <workItem from="1637574565770" duration="12000" />
       <workItem from="1637662171403" duration="5360000" />
-      <workItem from="1637752714550" duration="3217000" />
+      <workItem from="1637752714550" duration="3859000" />
     </task>
     <servers />
   </component>
