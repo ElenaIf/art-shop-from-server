@@ -40,7 +40,7 @@ use Drupal\bootstrap\Plugin\Setting\SettingBase;
  *   description = @Translation("Specify the HTML ID of the element that the accessible-but-hidden ""skip link"" should link to. (<a href="":link"" target=""_blank"">Read more about skip links</a>.)",
  *   arguments = { ":link"  = "https://www.drupal.org/node/467976" }),
  *   groups = {
- *     "THEMENAME" = "THEMETITLE",
+ *     "LTheme" = "THEMETITLE",
  *     "accessibility" = @Translation("Accessibility"),
  *   },
  * )

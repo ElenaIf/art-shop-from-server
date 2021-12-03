@@ -1,7 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e4f465d-53e0-4762-9a78-1b94f57f8493" name="Default Changelist" comment="" />
+    <list default="true" id="8e4f465d-53e0-4762-9a78-1b94f57f8493" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup-2021-11-23T12-21-57.mysql.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comsts_artshop.2021-11-18.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comsts_artshop.2021-11-18.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/contrib/commerce/modules/product/templates/commerce-product.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/modules/contrib/commerce/modules/product/templates/commerce-product.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/belgrade/assets/scss/_custom-variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/belgrade/assets/scss/_custom-variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/autoload-fix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/bootstrap.api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/bootstrap.breakpoints.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/bootstrap.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/bootstrap.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/bootstrap.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/install/bootstrap.settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_account_menu.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_branding.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_breadcrumbs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_content.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_footer.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_help.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_local_actions.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_local_tasks.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_main_menu.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_messages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_page_title.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_powered.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_search.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/optional/block.block.bootstrap_tools.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/config/schema/bootstrap.schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/deprecated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Getting-Started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Maintainers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Sub-Theming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Templates.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Theme-Settings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/Utility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Alter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Form.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Preprocess.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Prerender.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Process.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Provider.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Setting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/plugins/Update.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/docs/theme-settings.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/icons.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/drupal.bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/batch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/dialog.ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/progress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/states.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/tabledrag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/tableheader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/misc/vertical-tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/modal.jquery.ui.bridge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/modules/filter/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/modules/image_widget_crop/ImageWidgetCrop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/modules/views/ajax_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/text/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/theme-settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/scripts/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/scripts/gen-theme-setting-docs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapAlter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapConstant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapPreprocess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapPrerender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapProcess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapSetting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/BootstrapUpdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Annotation/PluginCallback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/BcSupport/BcAliasedInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/BcSupport/TrustedCallbackInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/DeprecatedInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Alter/AlterInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Alter/ElementInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Alter/LibraryInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Alter/PageAttachments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Alter/ThemeRegistry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Alter/ThemeSuggestions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/AlterManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Form/FormBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Form/FormInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Form/NodePreviewFormSelect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Form/SearchBlockForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Form/SearchForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Form/SystemThemeSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/FormManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Markdown/AllowedHtml/Bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/PluginBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/PluginManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/BootstrapCarousel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/BootstrapDropdown.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/BootstrapModal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/BootstrapPanel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Breadcrumb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/ContainerHelpBlock.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/FieldMultipleValueForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/FileLink.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/FileUploadHelp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/FilterTips.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/FormElement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/FormElementLabel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/ImageWidget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Input.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/InputButton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/ItemListBootstrapCarouselIndicators.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/ItemListDropdown.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Links.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/MenuLocalAction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/PreprocessBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/PreprocessInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/ProgressBar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Region.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Select.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/Table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/TableSortIndicator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Preprocess/ViewsViewTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/PreprocessManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Prerender/Captcha.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Prerender/Dropbutton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Prerender/Link.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Prerender/Operations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Prerender/PrerenderBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Prerender/PrerenderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/PrerenderManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/Actions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/ActionsDropbutton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/ManagedFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/ProcessBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/ProcessInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/Search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Process/TextFormat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/ProcessManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/ApiProviderBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/Broken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/CdnAsset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/CdnAssets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/CdnJs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/Custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/DrupalBootstrapStyles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/InvalidCdnUrlException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/JsDelivr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/ProviderBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/ProviderException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Provider/ProviderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/ProviderManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCacheTtlAssets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCacheTtlBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCacheTtlLibrary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCacheTtlThemes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCacheTtlVersions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCustom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCustomCss.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCustomCssMin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCustomJs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnCustomJsMin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnJsdelivrTheme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnJsdelivrVersion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnProviderBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnTheme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/Cdn/CdnVersion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/IncludeDeprecated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Advanced/SuppressDeprecatedWarnings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Components/Breadcrumbs/Breadcrumb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Components/Breadcrumbs/BreadcrumbHome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Components/Breadcrumbs/BreadcrumbTitle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Components/Navbar/NavbarInverse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Components/Navbar/NavbarPosition.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Components/Region/RegionWells.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/DeprecatedSettingInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Buttons/ButtonColorize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Buttons/ButtonIconize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Buttons/ButtonSize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Container/FluidContainer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Forms/FormsHasErrorValueToggle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Forms/FormsRequiredHasError.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Forms/FormsSmartDescriptions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Forms/FormsSmartDescriptionsAllowedTags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Forms/FormsSmartDescriptionsLimit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Images/ImageResponsive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Images/ImageShape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Tables/TableBordered.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Tables/TableCondensed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Tables/TableHover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Tables/TableResponsive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/General/Tables/TableStriped.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalAnimation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalBackdrop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalEnabled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalFocusInput.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalJqueryUIBridge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalKeyboard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalSelectText.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalShow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Modals/ModalSize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverAnimation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverAutoClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverContainer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverContent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverDelay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverEnabled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverHtml.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverPlacement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverTitle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverTrigger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Popovers/PopoverTriggerAutoclose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipAnimation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipContainer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipDelay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipEnabled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipHtml.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipPlacement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/JavaScript/Tooltips/TooltipTrigger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/Schemas.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/SettingBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Setting/SettingInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/SettingManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Update/UpdateBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/Update/UpdateInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Plugin/UpdateManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/SerializedResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Theme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/ThemeSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Traits/FormAutoloadFixTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/ArrayObject.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/Attributes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/Crypt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/DrupalAttributes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/Element.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/SortArray.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/Storage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/StorageItem.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/Unicode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/src/Utility/Variables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/THEMENAME.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/LTheme.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/THEMENAME.starterkit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/LTheme.info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/THEMENAME.theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/LTheme.theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/config/install/THEMENAME.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/config/install/LTheme.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/config/schema/THEMENAME.schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/config/schema/LTheme.schema.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/images/required.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/images/required.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/starterkits/THEMENAME/templates/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/LTheme/templates/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--bare.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--local-actions-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--local-tasks-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--page-title-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--search.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--system-branding-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--system-menu-block--account.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--system-menu-block--main.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block--system.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/block/block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/bootstrap/bootstrap-carousel.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/bootstrap/bootstrap-dropdown.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/bootstrap/bootstrap-modal.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/bootstrap/bootstrap-panel.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/bootstrap/item-list--bootstrap-carousel-indicators.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/bootstrap/item-list--dropdown.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/field/field-multiple-value-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/field/field.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/file/file-link.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/file/file-upload-help.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/file/image-widget.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/filter/filter-tips.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/filter/text-format-wrapper.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/datetime-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/datetime-wrapper.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/form-element-label.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/form-element.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/input--button--split.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/input--button.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/input--form-control.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/input.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/select.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/input/textarea.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/menu/menu--account.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/menu/menu--main.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/menu/menu-local-task.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/menu/menu-local-tasks.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/menu/menu.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/node/node.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/breadcrumb.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/container.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/html.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/image.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/links.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/maintenance-page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/page-title.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/pager.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/progress-bar.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/region--no-wrapper.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/region.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/status-messages.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/system-themes-page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/table.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/system/tablesort-indicator.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/views/views-exposed-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/views/views-mini-pager.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/views/views-view-table.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap/templates/views/views-view.html.twig" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +358,18 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/modules/contrib/commerce/modules/product/src/Entity/Product.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/themes/bartik/templates/classy/views/views-view-table.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/sites/default/settings.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.lando.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/modules/contrib/commerce/modules/product/templates/commerce-product.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/themes/bartik/templates/block.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/themes/bartik/templates/classy/field/field.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/themes/bartik/templates/classy/views/views-view.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/themes/bartik/templates/classy/views/views-view-summary.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/modules/contrib/commerce/modules/product/templates/commerce-product-form.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/modules/contrib/commerce/modules/product/templates/commerce-product-attribute-value.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/modules/contrib/commerce/modules/product/templates/commerce-product-variation.html.twig" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -139,17 +484,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/themes/LTheme/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/LTheme" />
+      <recent name="$PROJECT_DIR$/themes" />
       <recent name="$PROJECT_DIR$/sites/default/files/config_3QnaJYwt-W79Ja5sMeKhGlf0AYFEKgmXJeelIQzI_hs4pTrz8ulzxVhbPECjIklPSsRQf-O_Cw/sync" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -161,11 +523,29 @@
       <updated>1637574560687</updated>
       <workItem from="1637574565770" duration="12000" />
       <workItem from="1637662171403" duration="5360000" />
-      <workItem from="1637752714550" duration="3859000" />
+      <workItem from="1637752714550" duration="4090000" />
+      <workItem from="1637853235672" duration="9849000" />
+      <workItem from="1638176214428" duration="587000" />
+      <workItem from="1638257955375" duration="16096000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

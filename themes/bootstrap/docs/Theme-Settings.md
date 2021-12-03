@@ -10,7 +10,7 @@ stored and at what point in the process they are accessed.
 
 There are essentially four places where theme settings do or could reside:
 
-1. **Install Config** - `./themes/THEMENAME/config/install/THEMENAME.settings.yml`  
+1. **Install Config** - `./themes/THEMENAME/config/install/THEMENAME.settings.yml`
    This is the install config only. They will only be set upon the initial
    installation of a theme. This is **not** like previous Drupal implementations
    where changes made here are reflected after a cache rebuild. The only way
@@ -18,20 +18,20 @@ There are essentially four places where theme settings do or could reside:
    is to completely uninstall and reinstall the theme. To supply default values
    when a theme is installed, create the file named above and add the following:
    ```yaml
-   # Install settings (these are only set once). 
-   
+   # Install settings (these are only set once).
+
    SETTING_NAME: SETTING_VALUE
    ```
-2. **Exported Config** - `./CONFIG_DIR/THEMENAME.settings.yml`  
+2. **Exported Config** - `./CONFIG_DIR/THEMENAME.settings.yml`
    This is where theme settings are exported. The `CONFIG_DIR` is usually a
    directory located either just inside or outside the `DOCROOT` of the site.
    You can read more about this in the link above. This file is automatically
    generated; **DO NOT EDIT MANUALLY**.
-3. **Active Config** - `(Database)`  
+3. **Active Config** - `(Database)`
    Located in both the `config` and `cache_config` tables there will be an entry
    named `THEMENAME.settings`. This is where the "active" config is stored.
    These database entries are automatically generated; **DO NOT EDIT MANUALLY**.
-4. **Overridden Config** - `./DOCROOT/sites/default/settings[.local].php`  
+4. **Overridden Config** - `./DOCROOT/sites/default/settings[.local].php`
    This is your site's `settings[.local].php` file. Despite its path/filename,
    anything stored in the `$config` variable does not supply default values.
    These values actually override any exported or active config. While it is
@@ -43,7 +43,7 @@ There are essentially four places where theme settings do or could reside:
    While not an exception, it is important to note that this base-theme does
    support various theme specific `$settings` values, which are not the same as
    or to be confused with the config based theme settings (read more below).
-   
+
 If you are migrating from older versions of Drupal and need help wrapping your
 head around the config paradigm shift, think of "Active Config" as the new
 ".info" file, but specifically for your theme's settings. Because this is config
@@ -60,7 +60,7 @@ to use this base-theme's APIs. To retrieve a theme setting, use:
 ```php
 <?php
 use Drupal\bootstrap\Bootstrap;
-$theme = Bootstrap::getTheme('THEMENAME');
+$theme = Bootstrap::getTheme('LTheme');
 
 // Retrieve a theme setting.
 $theme->getSetting('my_setting', 'a default value');
@@ -970,7 +970,7 @@ elsewhere in your code:
 **PHP**
 ```php
 <?php
-use Drupal\bootstrap\Bootstrap; 
+use Drupal\bootstrap\Bootstrap;
 
 /**
  * Implements hook_preprocess_HOOK().
@@ -989,7 +989,7 @@ function THEMENAME_preprocess_page(&$variables) {
 function THEMENAME_js_settings_alter(array &$settings, AttachedAssetsInterface $assets) {
   // In other procedural functions, use the Bootstrap helper method to retrieve
   // the theme and then access the method there.
-  $theme = Bootstrap::getTheme(); 
+  $theme = Bootstrap::getTheme();
   if ($theme->isDev()) {
     // Do something here.
   }
@@ -1008,7 +1008,7 @@ plugin instance that can be accessed (e.g. `$this->theme->isDev()`).
 
 **JavaScript**
 ```js
-var theme = drupalSettings['THEMENAME'] || {};
+var theme = drupalSettings['LTheme'] || {};
 if (theme.dev) {
   // Do something here.
 }

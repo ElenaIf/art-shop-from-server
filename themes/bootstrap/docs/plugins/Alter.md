@@ -92,7 +92,7 @@ following contents:
 <?php
 /**
  * @file
- * Contains \Drupal\THEMENAME\Plugin\Alter\PageAttachments.
+ * Contains \Drupal\LTheme\Plugin\Alter\PageAttachments.
  */
 
 namespace Drupal\THEMENAME\Plugin\Alter;
@@ -117,7 +117,7 @@ class PageAttachments extends BootstrapPageAttachements {
     parent::alter($attachments, $context1, $context2);
 
     // Add your custom library.
-    $attachments['#attached']['library'][] = 'THEMENAME/my_library';
+    $attachments['#attached']['library'][] = 'LTheme/my_library';
   }
 
 }
